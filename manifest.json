@@ -11,6 +11,24 @@
       "description": "desc_manual",
       "version": "1.0.0",
       "slug": "delightlib"
+    },
+    {
+      "name": "sodium-fabric-0.9.1+mc26.1.2.jar",
+      "size": 1889595,
+      "sha256": "56d2eb7e8fb7f129286ab9cc89f460fe5a4cea340081ef3c50ac65bce9501b1d",
+      "category": "None",
+      "description": "desc_manual",
+      "version": "mc26.1.2-0.9.1-fabric",
+      "slug": "sodium"
+    },
+    {
+      "name": "fabric-api-0.154.2+26.1.2.jar",
+      "size": 2514491,
+      "sha256": "89b232cdf0c73a6e0cc8338a7520d2ac197b9cb65adca0554860b68873ea03e1",
+      "category": "Library",
+      "description": "desc_manual",
+      "version": "0.154.2+26.1.2",
+      "slug": "fabric-api"
     }
   ],
   "accent_color": "#bb86fc",
