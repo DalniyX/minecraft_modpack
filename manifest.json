@@ -1,0 +1,26 @@
+{
+  "admin_pwd_hash": "0e69ab027fe00ff17b10bfdb2f6208d22f5afa1648f1ed86928e45a2ff5b94f4",
+  "minecraft_version": "26.1.2",
+  "loader_type": "Fabric",
+  "files": [
+    {
+      "name": "delightlib-26.05.18-26.1-fabric.jar",
+      "size": 62056,
+      "sha256": "a6b5b40f99a6c706ff63c2760699eb3a79818394edbd3ff1ea5b5b303d927e4d",
+      "category": "None",
+      "description": "desc_manual",
+      "version": "1.0.0",
+      "slug": "delightlib"
+    }
+  ],
+  "accent_color": "#bb86fc",
+  "primary_color": "#03dac6",
+  "ai_disabled": false,
+  "ai_changelog": "да да ",
+  "background_image": "https://i.pinimg.com/originals/73/15/b0/7315b0a02379baab7180851f743bd237.png?nii=t",
+  "bg_blur": 0,
+  "modrinth_search_enabled": true,
+  "changelog_enabled": true,
+  "bg_darkness": 80,
+  "ai_model": "gemini-2.5-flash"
+}
