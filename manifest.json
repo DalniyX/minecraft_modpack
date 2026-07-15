@@ -40,5 +40,14 @@
   "modrinth_search_enabled": true,
   "changelog_enabled": true,
   "bg_darkness": 80,
-  "ai_model": "gemini-2.5-flash"
+  "ai_model": "gemini-2.5-flash",
+  "profiles": [
+    {
+      "id": "profile_y1je9",
+      "name": "New Profile 1",
+      "minecraft_version": "1.20.1",
+      "loader_type": "Fabric",
+      "files": []
+    }
+  ]
 }
