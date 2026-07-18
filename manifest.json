@@ -1,6 +1,6 @@
 {
   "admin_pwd_hash": "0e69ab027fe00ff17b10bfdb2f6208d22f5afa1648f1ed86928e45a2ff5b94f4",
-  "minecraft_version": "26.1.2",
+  "minecraft_version": "1.20.1",
   "loader_type": "Fabric",
   "files": [
     {
@@ -38,9 +38,19 @@
       "name": "Какашка",
       "minecraft_version": "1.20.1",
       "loader_type": "Fabric",
-      "files": []
+      "files": [
+        {
+          "name": "delightlib-26.05.18-26.1-fabric.jar",
+          "size": 62056,
+          "category": "Content",
+          "description": "desc_manual",
+          "version": "1.0.0",
+          "sha256": "a6b5b40f99a6c706ff63c2760699eb3a79818394edbd3ff1ea5b5b303d927e4d",
+          "slug": "delightlib"
+        }
+      ]
     }
   ],
-  "id": "profile_y1je9",
-  "name": "New Profile 1"
+  "id": "profile_b4ux7",
+  "name": "Какашка"
 }
