@@ -4,22 +4,13 @@
   "loader_type": "Fabric",
   "files": [
     {
-      "name": "sodium-fabric-0.9.1+mc26.1.2.jar",
-      "size": 1889595,
-      "sha256": "56d2eb7e8fb7f129286ab9cc89f460fe5a4cea340081ef3c50ac65bce9501b1d",
+      "name": "delightlib-26.05.18-26.1-fabric.jar",
+      "size": 62056,
       "category": "Content",
       "description": "desc_manual",
-      "version": "mc26.1.2-0.9.1-fabric",
-      "slug": "sodium"
-    },
-    {
-      "name": "fabric-api-0.155.2+26.1.2.jar",
-      "size": 2520724,
-      "sha256": "7196f2d8700cf906676db98cc13cd4b98267c4ca4ba3e8c516e62070b21a5a3a",
-      "category": "Library",
-      "description": "desc_manual",
-      "version": "0.155.2+26.1.2",
-      "slug": "fabric-api"
+      "version": "1.0.0",
+      "sha256": "a6b5b40f99a6c706ff63c2760699eb3a79818394edbd3ff1ea5b5b303d927e4d",
+      "slug": "delightlib"
     }
   ],
   "accent_color": "#11998e",
@@ -49,6 +40,13 @@
           "slug": "delightlib"
         }
       ]
+    },
+    {
+      "id": "profile_cymuk",
+      "name": "New Profile 2",
+      "minecraft_version": "1.20.1",
+      "loader_type": "Fabric",
+      "files": []
     }
   ],
   "id": "profile_b4ux7",
