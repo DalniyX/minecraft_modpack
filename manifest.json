@@ -4,15 +4,6 @@
   "loader_type": "Fabric",
   "files": [
     {
-      "name": "cloth-config-26.1.154.jar",
-      "size": 1135373,
-      "category": "Content",
-      "description": "desc_manual",
-      "version": "1.0.0",
-      "sha256": "fb7a5d869ce10eaac2c2fe9ab84b4fc011a1fbfa575a93be9845a386a7f0c7d3",
-      "slug": "cloth"
-    },
-    {
       "name": "sodium-fabric-0.9.1+mc26.1.2.jar",
       "size": 1889595,
       "sha256": "56d2eb7e8fb7f129286ab9cc89f460fe5a4cea340081ef3c50ac65bce9501b1d",
@@ -29,15 +20,6 @@
       "description": "desc_manual",
       "version": "0.155.2+26.1.2",
       "slug": "fabric-api"
-    },
-    {
-      "name": "trinkets-4.0.0-beta.2+26.1.jar",
-      "size": 546239,
-      "category": "Content",
-      "description": "desc_manual",
-      "version": "1.0.0",
-      "sha256": "da805b8b0d715eeddf11d073f150b0b882dbdaaf932efc9a139f59ec7658a5be",
-      "slug": "trinkets"
     }
   ],
   "accent_color": "#11998e",
@@ -50,7 +32,15 @@
   "changelog_enabled": true,
   "bg_darkness": 80,
   "ai_model": "gemini-2.5-flash",
-  "profiles": [],
+  "profiles": [
+    {
+      "id": "profile_b4ux7",
+      "name": "New Profile 1",
+      "minecraft_version": "1.20.1",
+      "loader_type": "Fabric",
+      "files": []
+    }
+  ],
   "id": "profile_y1je9",
   "name": "New Profile 1"
 }
