@@ -11,6 +11,33 @@
       "version": "1.0.0",
       "sha256": "fb7a5d869ce10eaac2c2fe9ab84b4fc011a1fbfa575a93be9845a386a7f0c7d3",
       "slug": "cloth"
+    },
+    {
+      "name": "sodium-fabric-0.9.1+mc26.1.2.jar",
+      "size": 1889595,
+      "sha256": "56d2eb7e8fb7f129286ab9cc89f460fe5a4cea340081ef3c50ac65bce9501b1d",
+      "category": "Content",
+      "description": "desc_manual",
+      "version": "mc26.1.2-0.9.1-fabric",
+      "slug": "sodium"
+    },
+    {
+      "name": "fabric-api-0.155.2+26.1.2.jar",
+      "size": 2520724,
+      "sha256": "7196f2d8700cf906676db98cc13cd4b98267c4ca4ba3e8c516e62070b21a5a3a",
+      "category": "Library",
+      "description": "desc_manual",
+      "version": "0.155.2+26.1.2",
+      "slug": "fabric-api"
+    },
+    {
+      "name": "trinkets-4.0.0-beta.2+26.1.jar",
+      "size": 546239,
+      "category": "Content",
+      "description": "desc_manual",
+      "version": "1.0.0",
+      "sha256": "da805b8b0d715eeddf11d073f150b0b882dbdaaf932efc9a139f59ec7658a5be",
+      "slug": "trinkets"
     }
   ],
   "accent_color": "#11998e",
