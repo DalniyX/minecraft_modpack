@@ -2,7 +2,17 @@
   "admin_pwd_hash": "0e69ab027fe00ff17b10bfdb2f6208d22f5afa1648f1ed86928e45a2ff5b94f4",
   "minecraft_version": "1.20.1",
   "loader_type": "Fabric",
-  "files": [],
+  "files": [
+    {
+      "name": "cloth-config-26.1.154.jar",
+      "size": 1135373,
+      "category": "Content",
+      "description": "desc_manual",
+      "version": "1.0.0",
+      "sha256": "fb7a5d869ce10eaac2c2fe9ab84b4fc011a1fbfa575a93be9845a386a7f0c7d3",
+      "slug": "cloth"
+    }
+  ],
   "accent_color": "#bb86fc",
   "primary_color": "#03dac6",
   "ai_disabled": false,
