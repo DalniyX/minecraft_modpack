@@ -4,13 +4,22 @@
   "loader_type": "Fabric",
   "files": [
     {
-      "name": "delightlib-26.05.18-26.1-fabric.jar",
-      "size": 62056,
+      "name": "sodium-fabric-0.9.1+mc26.1.2.jar",
+      "size": 1889595,
+      "sha256": "56d2eb7e8fb7f129286ab9cc89f460fe5a4cea340081ef3c50ac65bce9501b1d",
       "category": "Content",
       "description": "desc_manual",
-      "version": "1.0.0",
-      "sha256": "a6b5b40f99a6c706ff63c2760699eb3a79818394edbd3ff1ea5b5b303d927e4d",
-      "slug": "delightlib"
+      "version": "mc26.1.2-0.9.1-fabric",
+      "slug": "sodium"
+    },
+    {
+      "name": "fabric-api-0.155.2+26.1.2.jar",
+      "size": 2520724,
+      "sha256": "7196f2d8700cf906676db98cc13cd4b98267c4ca4ba3e8c516e62070b21a5a3a",
+      "category": "Library",
+      "description": "desc_manual",
+      "version": "0.155.2+26.1.2",
+      "slug": "fabric-api"
     }
   ],
   "accent_color": "#11998e",
@@ -46,9 +55,37 @@
       "name": "Ну да ",
       "minecraft_version": "1.20.1",
       "loader_type": "Fabric",
-      "files": []
+      "files": [
+        {
+          "name": "iris-fabric-1.10.9+mc26.1.1.jar",
+          "size": 2803860,
+          "sha256": "aea0eefb174d19ad97a812b6de2e304f0d3abc50357b316908cf1035f1514b07",
+          "category": "Content",
+          "description": "desc_manual",
+          "version": "1.0.0",
+          "slug": "iris"
+        },
+        {
+          "name": "sodium-fabric-0.5.13+mc1.20.1.jar",
+          "size": 971552,
+          "sha256": "688c26029ce69f0b1f7cf936866656ca6723228ac46c4aef5b5f793b1e6abd22",
+          "category": "Optimization",
+          "description": "desc_manual",
+          "version": "mc1.20.1-0.5.13-fabric",
+          "slug": "sodium"
+        },
+        {
+          "name": "fabric-api-0.92.11+1.20.1.jar",
+          "size": 2137144,
+          "sha256": "3278787c04ad636525b5c3400dff8302420f79279f6d51ce3edc0149060d12eb",
+          "category": "Library",
+          "description": "desc_manual",
+          "version": "0.92.11+1.20.1",
+          "slug": "fabric-api"
+        }
+      ]
     }
   ],
-  "id": "profile_b4ux7",
-  "name": "Какашка"
+  "id": "profile_cymuk",
+  "name": "Ну да "
 }
